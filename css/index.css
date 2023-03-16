@@ -1,0 +1,24 @@
+
+body{
+    margin: 70px;
+}
+
+a {
+    color: white;
+    background-color: blue;
+}
+
+div {
+    background-color: blue;
+}
+
+
+a:hover {
+    color: red;
+    opacity: 0.5;
+}
+
+a:active {
+    transform: rotate(90deg);
+    color: white;
+}
